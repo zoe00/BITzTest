@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BITZ</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="tv_article_header_color">Color options</string>
+    <string name="tv_article_header_price">Price options</string>
+    <string name="tv_article_header_order">Order options</string>
+    <string name="tv_article_header_size">Sizing options</string>
+    <string name="tv_article_header_comments">Comments</string>
+</resources>
