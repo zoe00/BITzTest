@@ -23,6 +23,7 @@ public class CartActivity extends AppCompatActivity {
     private ArrayAdapter<String> adapter;
     private ArrayList<String> values;
     private String wtf = "wtf wtf...";
+    private String wtf1 = "wtf another...";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
