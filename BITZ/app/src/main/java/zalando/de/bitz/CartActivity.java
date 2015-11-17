@@ -22,6 +22,7 @@ public class CartActivity extends AppCompatActivity {
     private int REQ_CODE_NEW_ARTICLE = 1;
     private ArrayAdapter<String> adapter;
     private ArrayList<String> values;
+    private String wtf1 = "wtf wtf...";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
